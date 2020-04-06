@@ -1,10 +1,12 @@
-# Background
+# Pandas challenge
+
+## Background
 
 For this project, it was analized the data of a mobile fantasy game.
 
 
 
-# Observable Trends Based on the Data
+## Observable Trends Based on the Data
 
 1)Main costumers are male (around 84% of total players), while females represent only 14% of the total players.
 
@@ -18,7 +20,7 @@ For this project, it was analized the data of a mobile fantasy game.
 
 
 
-# Jupyter Notebook Analysis
+## Jupyter Notebook Analysis
 
 
 **Player Count**
@@ -116,7 +118,7 @@ Identify the 5 most profitable items by total purchase value, then list (in a ta
 
 
 
-# Technologies Used
+## Technologies Used
 
 -Python
 
