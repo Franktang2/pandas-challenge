@@ -47,7 +47,7 @@ For this project, it was analized the data of a mobile fantasy game.
 
 **Purchasing Analysis (Gender)**
 
--The below each broken by gender
+The below each broken by gender
 
 -Purchase Count
 
@@ -60,7 +60,7 @@ For this project, it was analized the data of a mobile fantasy game.
 
 **Age Demographics**
 
--The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
+The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
 -Purchase Count
 
@@ -74,7 +74,7 @@ For this project, it was analized the data of a mobile fantasy game.
 **Top Spenders**
 
 
--Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
 
 -SN
 
@@ -87,7 +87,7 @@ For this project, it was analized the data of a mobile fantasy game.
 
 **Most Popular Items**
 
--Identify the 5 most popular items by purchase count, then list (in a table):
+Identify the 5 most popular items by purchase count, then list (in a table):
 
 -Item ID
 
@@ -102,7 +102,7 @@ For this project, it was analized the data of a mobile fantasy game.
 
 **Most Profitable Items**
 
--Identify the 5 most profitable items by total purchase value, then list (in a table):
+Identify the 5 most profitable items by total purchase value, then list (in a table):
 
 -Item ID
 
