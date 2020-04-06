@@ -1,10 +1,10 @@
-Background
+**Background**
 
 For this project, it was analized the data of a mobile fantasy game.
 
 
 
-Observable Trends Based on the Data
+**Observable Trends Based on the Data**
 
 1)Main costumers are male (around 84% of total players), while females represent only 14% of the total players.
 
@@ -18,7 +18,7 @@ Observable Trends Based on the Data
 
 
 
-Jupyter Notebook Analysis
+**Jupyter Notebook Analysis**
 
 
 Player Count
@@ -116,7 +116,7 @@ Most Profitable Items
 
 
 
-Technologies Used
+**Technologies Used**
 
 -Python
 
