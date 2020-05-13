@@ -2,7 +2,7 @@
 
 ## Background
 
-For this project, it was analized the data of a mobile fantasy game.
+For this project, it was analyzed the data of a mobile fantasy game..
 
 
 
@@ -12,9 +12,9 @@ For this project, it was analized the data of a mobile fantasy game.
 
 2)Interestingly, female players have spent on average almost 10% more than the male counterparts.
 
-3)Even though there are not the ones that spend more on average, the players between 20 and 24 are the ones that spend the most in total. Hence the company should focus on advertise to this age group.
+3)Even though there are not the ones that spend more on average, the players between 20 and 24 are the ones that spend the most in total. Hence the company should focus on advertising to this age group.
 
-4)The player that bought the most, only bought five items, which make me conclude that it is more important for the company to bring new players than to try the existing players to buy several items. However, I will need more data about how the game has been existing before being sure about this conclusion.
+4)The player that bought the most only bought five items, which make me conclude that it is more important for the company to bring new players than to try the existing players to buy several items. However, I will need more data about how the game has been existing before being sure about this conclusion.
 
 
 
